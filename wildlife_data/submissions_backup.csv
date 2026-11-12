@@ -1,0 +1,2 @@
+submission_id,submission_mode,bird_name,approximate_count,location,observation_date,observation_time,behavior,habitat,identification_confidence,image_files,audio_files,birdnet_results,analysis_errors,notes
+6258c5b6-900f-4691-9e27-ba3abc33529f,Audio identification,Unknown,1,tree,2026-11-04,18:38,Walking or hopping,Forest or woodland,Unsure,,wildlife_data\audio\6258c5b6-900f-4691-9e27-ba3abc33529f_92b7189c908c45788ee2aeca5485caec.mp3,[],BirdNET could not load: No module named 'birdnet',
